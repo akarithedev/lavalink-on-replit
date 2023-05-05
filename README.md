@@ -14,3 +14,6 @@ Lavalink on replit
 - [x] Use java 13 :3
 - [x] Easy setup
 - [x] Using master build
+
+#Other information
+- [x] Forked from https://github.com/KagChi/lavalink-repl
