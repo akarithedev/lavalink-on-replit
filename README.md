@@ -16,4 +16,4 @@ Lavalink on replit
 - [x] Using master build
 
 ## Other information:
-- [x] Forked from https://github.com/KagChi/lavalink-repl
+- [x] Inspired from https://github.com/KagChi/lavalink-repl
