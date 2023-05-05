@@ -15,5 +15,5 @@ Lavalink on replit
 - [x] Easy setup
 - [x] Using master build
 
-##Other information:
+## Other information:
 - [x] Forked from https://github.com/KagChi/lavalink-repl
