@@ -1,0 +1,16 @@
+{
+  "name": "lavalink-on-replit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "akarithedev",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "got": "^11.8.1",
+    "http": "0.0.1-security",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "bash start.sh"
+  }
+}
